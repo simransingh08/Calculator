@@ -1,4 +1,4 @@
-let  input  = document.getElementById('inputbox');
+let  input  = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
 
 let string = " ";
